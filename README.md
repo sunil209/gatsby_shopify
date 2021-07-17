@@ -1,1 +1,1 @@
-# gatsby_shopify
+# Shopify Store Implementations with Gatsby
